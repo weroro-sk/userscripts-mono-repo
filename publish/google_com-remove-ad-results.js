@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Google.com: Remove ad results from SERP
-// @version      0.0.1
+// @version      0.1.1
 // @description  Remove ad results from SERP
 // @author       weroro
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/google_com-remove-ad-results.js
@@ -10,7 +10,7 @@
 // @grant        none
 // ==/UserScript==
 
-(() => {
+(function() {
     'use strict';
 
     /** @type {string[]} */

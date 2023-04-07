@@ -3,9 +3,9 @@
 // @version      0.0.1
 // @description  Odstránenie reklamných výsledkov
 // @author       weroro
+// @match        https://www.google.com/search?*
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/google_com-remove-ad-results.js
 // @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/google_com-remove-ad-results.js
-// @match        https://www.google.com/search?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=google.com
 // @grant        none
 // ==/UserScript==

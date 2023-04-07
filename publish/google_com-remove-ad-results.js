@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google.com: Remove ad results from SERP
 // @version      0.0.1
-// @description  Odstránenie reklamných výsledkov
+// @description  Remove ad results from SERP
 // @author       weroro
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/google_com-remove-ad-results.js
 // @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/google_com-remove-ad-results.js

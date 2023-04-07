@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Google.com: Remove ad results from SERP
-// @namespace    https://www.weroro.sk/
 // @version      0.0.1
 // @description  Odstránenie reklamných výsledkov
 // @author       weroro

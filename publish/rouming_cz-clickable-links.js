@@ -4,10 +4,10 @@
 // @version      0.0.1
 // @description  Replace URL strings in forum with clickable links
 // @author       weroro
-// @match        https://*.rouming.cz/rouming*
-// @match        https://*.roumenovomaso.cz/maso*
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-clickable-links.js
 // @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-clickable-links.js
+// @match        https://*.rouming.cz/rouming*
+// @match        https://*.roumenovomaso.cz/maso*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
 // @grant        none
 // ==/UserScript==

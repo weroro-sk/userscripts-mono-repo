@@ -4,11 +4,11 @@
 // @version      0.0.1
 // @description  Prepínanie obrázkov a videí/gifov pomocou klávesnice
 // @author       weroro
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
 // @match        https://*.rouming.cz/roumingGIF.php*
 // @match        https://*.roumenovomaso.cz/masoShow.php*
 // @match        https://*.roumenovomaso.cz/masoGIF.php*
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
 // @grant        none
 // ==/UserScript==

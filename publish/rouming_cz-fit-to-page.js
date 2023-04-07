@@ -4,10 +4,10 @@
 // @version      0.0.1
 // @description  Removes advert iframes from top and side of content and resize images and videos to fit screen. It works for rouming, maso and all GIF/VIDEO sections.
 // @author       weroro
-// @match        https://*.rouming.cz/rouming*
-// @match        https://*.roumenovomaso.cz/maso*
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-fit-to-page.js
 // @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-fit-to-page.js
+// @match        https://*.rouming.cz/rouming*
+// @match        https://*.roumenovomaso.cz/maso*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
 // @grant        none
 // ==/UserScript==

@@ -4,9 +4,9 @@
 // @version      0.0.1
 // @description  Odstraňuje reklamu, ktorá je imúnna voči AdBlocku
 // @author       weroro
-// @match        http://programujte.com/*
 // @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/programujte_com-remove-side-adverts.js
 // @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/programujte_com-remove-side-adverts.js
+// @match        http://programujte.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=programujte.com
 // @grant        none
 // ==/UserScript==

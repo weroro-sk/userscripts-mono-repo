@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Rouming.cz: Images and videos switch with keyboard arrows
-// @version      0.0.1
+// @version      1.0.1
 // @description  Prepínanie obrázkov a videí/gif-ov pomocou klávesnice
 // @license      MIT
 // @author       weroro

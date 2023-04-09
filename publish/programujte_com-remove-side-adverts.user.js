@@ -1,14 +1,19 @@
 // ==UserScript==
 // @name         Programujte.com - Remove side adverts
-// @namespace    https://www.weroro.sk/
-// @version      0.0.1
+// @version      1.0.0
+// @license      MIT
 // @description  Odstraňuje reklamu, ktorá je imúnna voči AdBlocku
+// @namespace    https://github.com/weroro-sk
 // @author       weroro
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/programujte_com-remove-side-adverts.js
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/programujte_com-remove-side-adverts.js
+// @homepageURL  https://www.weroro.sk
 // @match        http://programujte.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=programujte.com
+// @run-at       document-end
+// @noframes     true
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=programujte.com
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/programujte_com-remove-side-adverts.user.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/programujte_com-remove-side-adverts.user.js
+// @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
 
 (() => {

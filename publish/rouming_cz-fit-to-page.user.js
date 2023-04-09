@@ -1,15 +1,20 @@
 // ==UserScript==
 // @name         Rouming.cz: image/video fit to page, iframes remover
-// @namespace    https://www.weroro.sk/
-// @version      0.0.1
+// @version      1.0.1
+// @license      MIT
 // @description  Removes advert iframes from top and side of content and resize images and videos to fit screen. It works for rouming, maso and all GIF/VIDEO sections.
+// @namespace    https://github.com/weroro-sk
 // @author       weroro
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-fit-to-page.js
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-fit-to-page.js
+// @homepageURL  https://www.weroro.sk
 // @match        https://*.rouming.cz/rouming*
 // @match        https://*.roumenovomaso.cz/maso*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
+// @run-at       document-end
+// @noframes     true
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-fit-to-page.user.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-fit-to-page.user.js
+// @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
 
 (() => {

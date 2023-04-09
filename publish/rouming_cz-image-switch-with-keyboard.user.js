@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Rouming.cz: Images and videos switch with keyboard arrows
 // @version      1.0.1
-// @description  Prepínanie obrázkov a videí/gif-ov pomocou klávesnice
 // @license      MIT
+// @description  Prepínanie obrázkov a videí/gif-ov pomocou klávesnice
+// @namespace    https://github.com/weroro-sk
 // @author       weroro
 // @homepageURL  https://www.weroro.sk
-// @namespace    https://github.com/weroro-sk
 // @match        https://*.rouming.cz/roumingGIF.php*
 // @match        https://*.roumenovomaso.cz/masoShow.php*
 // @match        https://*.roumenovomaso.cz/masoGIF.php*
@@ -13,11 +13,10 @@
 // @noframes     true
 // @grant        none
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.js
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.js
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.user.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.user.js
 // @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
-
 
 (() => {
     'use strict';

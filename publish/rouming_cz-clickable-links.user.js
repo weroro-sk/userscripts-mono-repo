@@ -1,15 +1,20 @@
 // ==UserScript==
 // @name         Rouming.cz: Clickable links in forum
-// @namespace    https://www.weroro.sk/
-// @version      0.0.1
+// @version      1.0.0
+// @license      MIT
 // @description  Replace URL strings in forum with clickable links
+// @namespace    https://github.com/weroro-sk
 // @author       weroro
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-clickable-links.js
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-clickable-links.js
+// @homepageURL  https://www.weroro.sk
 // @match        https://*.rouming.cz/rouming*
 // @match        https://*.roumenovomaso.cz/maso*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
+// @run-at       document-end
+// @noframes     true
 // @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-clickable-links.user.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-clickable-links.user.js
+// @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
 
 (() => {

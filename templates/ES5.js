@@ -16,7 +16,7 @@
 // @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
 
-(function() {
+(function () {
     "use strict";
 
 })();

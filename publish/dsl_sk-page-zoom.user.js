@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         DSL.sk zoom
-// @version      1.0.0
+// @name         DSL.sk: Zoom
+// @version      1.0.1
 // @license      MIT
 // @description  Automatický zoom stránky
 // @namespace    https://github.com/weroro-sk
@@ -18,9 +18,10 @@
 
 (() => {
     "use strict";
-    document.body.style.zoom=1.7;
 
-    document.querySelector('#header table tr:nth-of-type(2)')?.remove();
+    document.body.style.zoom = 1.7;
+    document.querySelector('#header table tr:nth-of-type(2)')
+        ?.remove();
 
     //this.blur();
 

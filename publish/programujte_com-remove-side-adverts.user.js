@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Programujte.com - Remove side adverts
-// @version      1.0.0
+// @version      1.0.1
 // @license      MIT
 // @description  Odstraňuje reklamu, ktorá je imúnna voči AdBlocku
 // @namespace    https://github.com/weroro-sk

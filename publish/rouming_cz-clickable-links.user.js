@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Rouming.cz: Clickable links in forum
-// @version      1.0.0
+// @version      1.0.1
 // @license      MIT
 // @description  Replace URL strings in forum with clickable links
 // @namespace    https://github.com/weroro-sk

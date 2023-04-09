@@ -13,8 +13,8 @@
 // @noframes     true
 // @grant        none
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=rouming.cz
-// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
-// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/main/publish/rouming_cz-image-switch-with-keyboard.js
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/rouming_cz-image-switch-with-keyboard.js
 // @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
 // ==/UserScript==
 

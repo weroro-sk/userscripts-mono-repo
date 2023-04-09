@@ -1,0 +1,22 @@
+// ==UserScript==
+{{@name}}
+// @version      1.0.0
+// @license      MIT
+{{@description}}
+// @namespace    https://github.com/weroro-sk
+// @author       weroro
+// @homepageURL  https://www.weroro.sk/
+{{@match}}
+// @run-at       document-end
+// @noframes     true
+// @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain={{icon}}
+// @downloadURL  https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/{{filename}}.js
+// @updateURL    https://raw.githubusercontent.com/weroro-sk/userscripts-mono-repo/master/publish/{{filename}}.js
+// @supportURL   https://github.com/weroro-sk/userscripts-mono-repo/issues
+// ==/UserScript==
+
+(function () {
+    "use strict";
+
+})();

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Pokec.sk: Pokec plus SKIP
-// @version      1.0.1
+// @version      1.0.2
 // @license      MIT
 // @description  Automatické preskočenie pokec plus ponuky po prihlásení
 // @namespace    https://github.com/weroro-sk
@@ -19,10 +19,6 @@
 (() => {
     "use strict";
 
-    const btn = document.querySelector('#skip');
-    if (!btn)
-        return;
-
-    btn.click();
+    document.querySelector('#skip')?.click();
 
 })();
